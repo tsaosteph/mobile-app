@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of the project is to build an interactive application (aka game) for a user to play rock, paper, scissors. The goal of the game is for the player to select a weapon that defeats the computer opponent's choice of weapon in accordance with the following rules:
+The objective of the project is to build an interactive mobile application (aka game) that runs on both iOS and Android for a user to play rock, paper, scissors. The goal of the game is for the player to select a weapon that defeats the computer opponent's choice of weapon in accordance with the following rules:
 - Rock smashes scissors, so rock wins.
 - Scissors cut paper, so scissors win.
 - Paper covers rock, so paper wins.
